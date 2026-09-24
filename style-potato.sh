@@ -17,7 +17,7 @@ StyleVmessCreate() {
   echo -e " CITY          : ${city}"
   echo -e " ISP           : PT Ado Server Premium Nusantara"
   echo -e " Domain        : ${domain}"
-  echo -e " Domain SSL    : ${domain}"
+  echo -e " Domain Cloudfront    : d16emrzkcy563o.cloudfront.net"
   echo -e " Port TLS      : 443,8443"
   echo -e " Port none TLS : 80,8080"
   echo -e " Port any      : 2052,2053,8880"
